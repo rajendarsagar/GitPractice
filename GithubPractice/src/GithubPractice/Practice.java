@@ -6,6 +6,8 @@ public class Practice {
 		
 		System.out.println("Practice");
 
+		//Hi Hello Java
+
 	}
 
 }
